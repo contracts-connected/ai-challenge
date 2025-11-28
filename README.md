@@ -54,6 +54,13 @@ Any stack is acceptable (React, Vue, Next.js).
 
 ---
 
+## Test Assets
+
+All contract files required for this challenge are included in the repository under the assets/ folder. These documents
+represent the sample contracts your agent should analyze.
+
+---
+
 ## Deliverables
 
 You must submit:
